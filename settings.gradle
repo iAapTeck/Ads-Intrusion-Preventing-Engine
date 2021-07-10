@@ -1,0 +1,3 @@
+rootProject.name = "Ads Intrusion Preventing Engine"
+include ':app'
+include ':ads_intrusion_preventing_engine'
