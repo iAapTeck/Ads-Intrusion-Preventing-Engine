@@ -24,7 +24,7 @@ Add it in your root build.gradle at the end of repositories:
  
  ```gradle
  	dependencies {
-	        implementation 'com.github.iAapTeck:Ads-Intrusion-Preventing-Engine:1.0'
+	        implementation 'com.github.iAapTeck:Ads-Intrusion-Preventing-Engine:v1.0.1'
 	}
 ```
 	
