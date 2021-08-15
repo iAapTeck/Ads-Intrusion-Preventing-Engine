@@ -19,6 +19,7 @@ import java.util.Set;
 
 public class AdsIntrusionPrevention {
     private static final String AD_HOSTS_FILE = "hosts";
+    //private static final String AD_HOSTS_FILE = "com/iaapteck/ansefy_technologies/library/ads_intrusion_preventing_engine/assets/hosts";
     private static final Set<String> AD_HOSTS = new HashSet<>();
 
     public static void init(final Context context) {
